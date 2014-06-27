@@ -5,10 +5,11 @@
   "description": "Generates HTML bibles for BrowserBible",
   "dependencies" : {
     "jquery"   :  "*",
-    "uglifyjs" : "*",
     "uglifycss" : "*",
+    "jsdom"    :  "*",
+    "uglify-js" : "*",
     "progress": "*",
-    "minimist": "*"   
+    "minimist": "*"
   },
   "license": "MIT"
 }
