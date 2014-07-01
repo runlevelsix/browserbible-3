@@ -9,7 +9,8 @@
     "jsdom"    :  "*",
     "uglify-js" : "*",
     "progress": "*",
-    "minimist": "*"
+    "minimist": "*",
+    "mkdirp":"*"
   },
   "license": "MIT"
 }
