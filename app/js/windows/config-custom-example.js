@@ -1,7 +1,6 @@
-
 // change any config values here
 sofia.config = $.extend(sofia.config, {
-	
+
 	enableOnlineSources: true,
 
 });
@@ -10,7 +9,7 @@ sofia.config = $.extend(sofia.config, {
 sofia.customConfigs = {
 	"dbs": {
 		customCssUrl: 'dbs.css'
-		
+
 	}
 
 };
